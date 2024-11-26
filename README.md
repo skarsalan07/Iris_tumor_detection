@@ -24,9 +24,3 @@ This project is designed to detect eye tumors in the iris using cutting-edge tec
 - CNN Model: For image processing and tumor detection. The model is trained using labeled datasets of iris images.
 
 ---
-
-## HOW TO RUN
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/username/iris-eye-tumor-detection.git
-   cd iris-eye-tumor-detection
